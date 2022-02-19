@@ -62,7 +62,7 @@ header .social-nav {
 }
 
 .social-nav .sn-twitter {
-  background: url("./images/twitter.svg") no-repeat 50% 50%;
+  background: url("./images/facebook.svg") no-repeat 50% 50%;
   background-color: #1da1f2;
 }
 
@@ -72,7 +72,7 @@ header .social-nav {
 }
 
 .social-nav .sn-website {
-  background: url("./images/globe.svg") no-repeat 50% 50%;
+  background: url("./images/linkedin.svg") no-repeat 50% 50%;
   background-color: #77a8b1;
 }
 
